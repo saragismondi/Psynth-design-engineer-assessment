@@ -20,9 +20,11 @@
   --color-peach-surface: var(--color-peach-surface);
   --color-danger: var(--color-danger);
   --color-danger-surface: var(--color-danger-surface);
+  --color-surface-wash: var(--color-surface-wash);
   --color-focus: var(--color-focus);
   --radius-sm: var(--radius-sm);
   --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
   --font-sans: var(--font-sans);
 }
 

@@ -144,3 +144,11 @@ Send us the **GitHub repo URL** of your template/fork. Before you send it, this 
 - [ ] Optional: a short note in this README (your fork) if you stopped at 8 hours
 
 We review for about 20–30 minutes: `npm test`, the five stories (light and dark), `DISCLOSURE.md`, and `src/assistant/index.ts`.
+
+---
+
+## Note from the candidate
+
+I spent the full 8 hours and stopped there, as the brief asks. Everything listed as required is in:
+the four components, the five locked story titles, stories for `AssistantMessage`, `Composer` and
+`SuggestionChips`, and the four test cases. 
